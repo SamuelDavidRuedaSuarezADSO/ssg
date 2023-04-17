@@ -1,0 +1,160 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+body{
+    background: #4b5e2c;
+}
+.pagina{
+    background: #556B2F;
+    width: 1400px;
+    height: 60vw;
+    position: absolute;
+    left: 250px;
+    border-left: 10px solid #000;    
+    border-right: 10px solid #000;
+    box-shadow:0px 25px 25px 30px #111111;
+}
+.logo{
+    background: #283318;
+    width: 150px;
+    height: 90px;
+    position: absolute;
+    top: 20px;
+    left: 50px;
+    border: 4px solid #000;
+}  
+.logo_1{
+    width: 100%;
+    height: 100%;
+    object-fit: fill;
+}
+.barra{
+    background-color: #4b5e2c;
+    width: 1300px;
+    height: 70px;
+    position: absolute;
+    top: 130px;
+    left: 40px;
+    border: 4.5px solid #000;
+}
+ul{
+    list-style-type: none;
+}
+a{
+    color: #fff;
+    text-decoration: none;
+}
+.home{
+    background: #283318;
+    color: #000;
+    width: 150px;
+    height: 50px;
+    margin: 5px;
+    margin-right: 0;
+    border: 3px solid #000;
+    padding-top: 5px;
+    text-align: center;
+    display: inline-block;
+    font-size: 28px;
+    font-family:  'Teko', sans-serif;
+}
+.hitler{
+    background: #283318;
+    color: #000;
+    width: 150px;
+    height: 50px;
+    margin: 5px;
+    margin-right: 0;
+    border: 3px solid #000;
+    padding-top: 5px;
+    text-align: center;
+    display: inline-block;
+    font-size: 28px;
+    font-family:  'Teko', sans-serif;
+}
+.alemania{
+    background: #283318;
+    color: #000;
+    width: 150px;
+    height: 50px;
+    margin: 5px;
+    margin-right: 0;    
+    border: 3px solid #000;
+    padding-top: 5px;
+    text-align: center;
+    display: inline-block;
+    font-size: 28px;
+    font-family:  'Teko', sans-serif;
+}
+.mundo{
+    background: #283318;
+    color: #000;
+    width: 150px;
+    height: 50px;
+    margin: 5px;
+    margin-right: 0;    
+    border: 3px solid #000;
+    padding-top: 5px;
+    text-align: center;
+    display: inline-block;
+    font-size: 28px;
+    font-family:  'Teko', sans-serif;
+}
+.tecno{
+    background: #283318;
+    color: #000;
+    width: 150px;
+    height: 50px;
+    margin: 5px;
+    margin-right: 0;    
+    border: 3px solid #000;
+    padding-top: 5px;
+    text-align: center;
+    display: inline-block;
+    font-size: 28px;
+    font-family:  'Teko', sans-serif;
+}
+.arm{
+    background: #283318;
+    color: #000;
+    width: 150px;
+    height: 50px;
+    margin: 5px;
+    margin-right: 0;    
+    border: 3px solid #000;
+    padding-top: 5px;
+    text-align: center;
+    display: inline-block;
+    font-size: 28px;
+    font-family:  'Teko', sans-serif;
+}
+.pelo{
+    background: #283318;
+    color: #000;
+    width: 150px;
+    height: 50px;
+    margin: 5px;
+    margin-right: 0;    
+    border: 3px solid #000;
+    padding-top: 5px;
+    text-align: center;
+    display: inline-block;
+    font-size: 28px;
+    font-family:  'Teko', sans-serif;
+}
+.vehi{
+    background: #283318;
+    color: #000;
+    width: 168px;
+    height: 50px;
+    margin: 5px;
+    margin-right: 0;    
+    border: 3px solid #000;
+    padding-top: 5px;
+    text-align: center;
+    display: inline-block;
+    font-size: 28px;
+    font-family:  'Teko', sans-serif;
+}
